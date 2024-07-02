@@ -236,30 +236,8 @@
         "manifestVersion": "1.16",
         "id": "b1379a75-ce5e-4fa3-80c6-89bb39bf6666",
         "version": "1.0.6",
-        "name": "Copilot Int LocalV2",
+        "name": "Copilot Int LocalV3",
         "accentColor": "#FFFFFF",
-        "authorization": {
-          "permissions": {
-            "resourceSpecific": [
-              {
-                "name": "TeamsActivity.Send.User",
-                "type": "Application"
-              },
-              {
-                "name": "OnlineMeetingParticipant.Read.Chat",
-                "type": "Application"
-              },
-              {
-                "name": "OnlineMeetingNotification.Send.Chat",
-                "type": "Application"
-              },
-              {
-                "name": "OnlineMeeting.ReadBasic.Chat",
-                "type": "Application"
-              }
-            ]
-          }
-        },
         "bots": [
           {
             "commandLists": [
