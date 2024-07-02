@@ -234,9 +234,9 @@
       },
       {
         "manifestVersion": "1.16",
-        "id": "b1379a75-ce5e-4fa3-80c6-89bb39bf646c",
+        "id": "b1379a75-ce5e-4fa3-80c6-89bb39bf6666",
         "version": "1.0.6",
-        "name": "Copilot Int",
+        "name": "Copilot Int LocalV2",
         "accentColor": "#FFFFFF",
         "authorization": {
           "permissions": {
