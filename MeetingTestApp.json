@@ -5,7 +5,7 @@
                 "manifestVersion": "1.16",
                 "id": "b1379a75-ce5e-4fa3-80c6-89bb39bf646c",
                 "version": "1.0.7",
-                "name": "Copilot Int Override",
+                "name": "Copilot Int[Override]",
                 "accentColor": "#FFFFFF",
                 "authorization": {
                     "permissions": {
@@ -110,7 +110,8 @@
                 "requiredServicePlanIdSets": [
                     {
                         "requiredServicePlanIds": [
-                            "b95945de-b3bd-46db-8437-f2beb6ea2347"
+                            "b95945de-b3bd-46db-8437-f2beb6ea2347",
+                            "5810ac4e-0cdd-42be-93ce-80f8eb95618e"
                         ]
                     }
                 ],
